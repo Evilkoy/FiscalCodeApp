@@ -1,7 +1,7 @@
 # FiscalCodeApp
 Italian fiscal code generator, that use **MySql** database of Italian communes
 ## About my app
-This is one of many tutorial applications i've done to learn **Java** and this one looks like useful app for some italian people  
+This is one of many applications i've done to learn **Java** and this one looks like useful app for some italian people  
 It works, but needs improvements for some too large methods  
 Application 
 ## How it works
